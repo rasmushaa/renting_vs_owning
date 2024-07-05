@@ -10,7 +10,7 @@ st.title('Is Renting an Apartment a Better Option for You? Find Out Now!')
 st.markdown(f'''This application illustrates how your amortized mortgage payments will evolve over  
             time according to your specified parameters.   
             It also compares the opportunity cost of invested capital with a specified return rate.   
-            For a more detailed discussion, please read the accompanying article <>.''')
+            For a more detailed discussion, please read the accompanying article https://medium.com/@rasmushaa/is-renting-an-apartment-a-better-option-for-you-8943d310281f.''')
 st.divider()
 
 
